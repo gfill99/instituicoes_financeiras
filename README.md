@@ -4,8 +4,7 @@ Este projeto analisa o impacto da pandemia nas instituições financeiras brasil
 
 #Tecnologias utilizadas
 - **Python**  
-- **Pandas**  
-- **SQL (DuckDB)**  
+- **Pandas**   
 - **Matplotlib / Seaborn** (visualização de dados)
 
 # Objetivos
